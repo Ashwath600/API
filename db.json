@@ -1,0 +1,58 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "kannan",
+      "place": "village",
+      "phone": "1234567890"
+    },
+    {
+      "id": "2",
+      "name": "ashwath",
+      "place": "chennai",
+      "phone": "6381199706"
+    },
+    {
+      "id": "3",
+      "name": "lakshmi",
+      "place": "chennai",
+      "phone": "8939572726"
+    },
+    {
+      "id": "4",
+      "name": "Ram",
+      "place": "canada",
+      "phone": "8939572726"
+    },
+    {
+      "id": "5",
+      "name": "dayalan",
+      "place": "tharamani",
+      "phone": "7904414646"
+    },
+    {
+      "id": "6",
+      "name": "santhanam",
+      "place": "tharamani",
+      "phone": "8939572726"
+    },
+    {
+      "id": "7",
+      "name": "sathish",
+      "place": "chennai",
+      "phone": "63811-99706"
+    },
+    {
+      "id": "8",
+      "name": "kannan",
+      "place": "chennai",
+      "phone": "8939572726"
+    },
+    {
+      "id": "9",
+      "name": "john applescript",
+      "place": "velachery",
+      "phone": "8072117067"
+    }
+  ]
+}
